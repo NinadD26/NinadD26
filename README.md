@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Ninad Divekar
 
-🚀 Senior DevOps Engineer with 5+ years IT experience and 3+ years in AWS DevOps.
+🚀 Senior DevOps Engineer with 5+ years IT experience and 3+ years in AWS DevOps Terraform Associate and AWS SAA Certified.
 I design scalable AWS platforms, build secure CI/CD pipelines,
 and automate everything using Terraform,Bash,Python, Docker, GitLab 
 
