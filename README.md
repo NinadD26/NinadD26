@@ -1,143 +1,69 @@
-🚀 Ninad Divekar
+👋 Hi, I’m Ninad Divekar
+ Senior DevOps Engineer | AWS | Terraform | CI/CD | Containers
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+scalable+cloud+platforms;Automating+everything+with+Terraform;CI%2FCD+that+never+breaks;Cloud+Security+%26+Reliability" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ninad-divekar"><img src="https://img.shields.io/badge/LinkedIn-Ninad%20Divekar-blue?logo=linkedin"></a> <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f"><img src="https://img.shields.io/badge/AWS-SAA-orange?logo=amazonaws"></a> <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4"><img src="https://img.shields.io/badge/Terraform-Associate-purple?logo=terraform"></a> </p>
+ About Me
 
-Senior DevOps Engineer | AWS | Terraform | CI/CD | Container Platforms
+DevOps Engineer with 5+ years IT experience and 3+ years in DevOps.
+I design scalable AWS platforms, build secure CI/CD pipelines,
+and automate everything using Terraform, Docker, GitLab & AWS.
 
+⚙ Built mono-repo CI/CD pipelines for microservices
 
+☁ Automated ECS, Fargate, Lambda, ALB, VPC with Terraform
 
+🔐 Secured pipelines using STS AssumeRole
 
+💸 Reduced cloud costs up to 30–60%
 
-
-👋 About Me
-
-DevOps Engineer with 5+ years of IT experience and 3+ years in DevOps, specializing in:
-
-Cloud infrastructure automation
-
-Containerized application platforms
-
-CI/CD pipelines & security
-
-Scalable, multi-environment AWS architectures
-
-I have delivered production systems for fintech, healthcare, and SaaS platforms, reducing costs, improving reliability, and accelerating deployments using Terraform, AWS, Docker, GitLab, and CI/CD automation.
+🚀 Accelerated deployments by 40–70%
 
 🏆 Certifications
+<p align="center"> <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f"> <img src="https://img.shields.io/badge/AWS%20SAA-Certified-orange?logo=amazonaws"> </a> <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4"> <img src="https://img.shields.io/badge/Terraform-Associate-purple?logo=terraform"> </a> </p>
+🛠 Tech Arsenal 
 
-AWS Certified Solutions Architect – Associate
+Cloud & IaC
+AWS · Terraform · ECS · Fargate · Lambda · VPC · S3
 
-HashiCorp Terraform Associate (003)
+CI/CD & Automation
+GitLab CI/CD · CircleCI · GitHub Actions · CodePipeline · Python · Bash
 
-🛠 Core Skills
-☁ Cloud & IaC
+Containers & Platforms
+Docker · NGINX · Microservices · Serverless
 
-AWS · Terraform · ECS (EC2 & Fargate) · ECR · Lambda · VPC · S3 · CloudWatch
+Monitoring & Security
+CloudWatch · Prometheus · Grafana · SonarQube · IAM · STS
 
-🔁 CI/CD & Automation
-
-GitLab CI/CD · CircleCI · GitHub Actions · AWS CodePipeline · Python · Bash
-
-📦 Containers & Platforms
-
-Docker · ECS · Lambda Containers · NGINX · ClamAV · Microservices
-
-📊 Monitoring & Security
-
-CloudWatch · Prometheus · Grafana · SonarQube · IAM · STS · Secrets Manager
-
-🗄 Databases
-
+Databases
 MongoDB · MySQL · PostgreSQL · Redis · DynamoDB · DocumentDB
 
-💼 Professional Experience
-DevOps Engineer — Cloudshastra Infotech (Apr 2024 – Present)
-🔹 AWS Infrastructure & Container Platform
+🔥 Flagship Projects
+🧬 CAIS – Clinical AI Platform
 
-Designed scalable ECS + ECR architecture
+8 microservices on ECS Fargate
 
-Implemented Lambda container workloads
+Mono-repo GitLab CI/CD (70% build reduction)
 
-Built CI/CD using CodeCommit, CodeBuild & CodePipeline
+ECS → Lambda migration for cost optimization
 
-🔹 Serverless Antivirus Scanning (ClamAV)
+🤖 Autoflow Chatbot (InvoLead)
 
-Event-driven S3 → Lambda → Scan → Quarantine
+Folder-based CI/CD triggers
 
-Fully automated using Terraform + CircleCI
+Modular Terraform infra
 
-100% file scanning coverage
+NGINX secure routing
 
-🔹 Multi-Region VPC Flow Logs
+🛡 Serverless Antivirus Pipeline
 
-Centralized logging across regions
+S3 → Lambda → ClamAV → Quarantine
 
-CI/CD + Terraform automation
+Terraform + CircleCI automation
 
-Compliance-ready architecture
+📊 CloudWatch Alarm Automation
 
-🔹 Internship Program & Cost Optimization
+200+ alarms via Terraform
 
-Mentored interns, 90%+ success rate
+Auto-discovery for ECS services
 
-Reduced AWS costs by 30%
-
-Automated workflows (Python + Bash)
-
-Client: InvoLead – Autoflow Chatbot Platform
-
-Mono-repo CI/CD (folder-level triggers)
-
-Terraform modular ECS + ALB + Fargate infra
-
-NGINX private routing
-
-STS AssumeRole for secure pipelines
-
-Reduced build time 40%
-
-CAIS – Clinical AI Platform
-
-8 ECS Fargate services, 4 environments
-
-Migrated AI service ECS → Lambda (cost optimized)
-
-GitLab mono-repo CI/CD (70% build reduction)
-
-DocumentDB sync using AWS DMS
-
-CloudWatch Monitoring Automation
-
-Terraform modules for 200+ alarms
-
-Auto-discovery of ECS services
-
-Branch-based multi-env deployment
-
-Reduced manual setup from 50 → 10 minutes
-
-Escalon Business Services – DevOps Engineer
-
-Project: HUB
-
-Ansible deployment automation (50% faster)
-
-Secrets via SSM Parameter Store
-
-EC2/RDS scheduling Lambda (60% cost cut)
-
-Cross-region DB migration automation
-
-Project: RPA Database Automation
-
-Custom GitLab Runner Docker images
-
-Secure RDS query execution
-
-CI/CD automated DB operations
-
-iOS Developer – Mobitrail
-
-Banking apps (ICICI, Axis)
-
-Swift, Objective-C, REST APIs
-
-Security: SSL pinning, Keychain, encryption
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NinadD26&theme=tokyonight&show_icons=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinadD26&theme=tokyonight"/> </p>
