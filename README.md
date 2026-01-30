@@ -1,69 +1,68 @@
 👋 Hi, I’m Ninad Divekar
- Senior DevOps Engineer | AWS | Terraform | CI/CD | Containers
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+scalable+cloud+platforms;Automating+everything+with+Terraform;CI%2FCD+that+never+breaks;Cloud+Security+%26+Reliability" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ninad-divekar"><img src="https://img.shields.io/badge/LinkedIn-Ninad%20Divekar-blue?logo=linkedin"></a> <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f"><img src="https://img.shields.io/badge/AWS-SAA-orange?logo=amazonaws"></a> <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4"><img src="https://img.shields.io/badge/Terraform-Associate-purple?logo=terraform"></a> </p>
- About Me
+DevOps Engineer | AWS | TERRAFORM | CI/CD | DOCKER | AUTOMATION | OPTIMIZATION | MONITORING
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Automating+cloud+infrastructure;Shipping+reliable+pipelines;Scaling+container+platforms;Keeping+production+stable" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ninad-divekar"> <img src="https://img.shields.io/badge/LinkedIn-Ninad%20Divekar-blue?logo=linkedin"> </a> <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f"> <img src="https://img.shields.io/badge/AWS-SAA-orange?logo=amazonaws"> </a> <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4"> <img src="https://img.shields.io/badge/Terraform-Associate-purple?logo=terraform"> </a> </p>
+💫 About Me
 
-DevOps Engineer with 5+ years IT experience and 3+ years in DevOps.
-I design scalable AWS platforms, build secure CI/CD pipelines,
-and automate everything using Terraform, Docker, GitLab & AWS.
+DevOps Engineer with 5+ years in IT and 3+ years in DevOps.
+I spend most of my time building AWS infrastructure, automating CI/CD pipelines, and making sure production systems stay healthy.
 
-⚙ Built mono-repo CI/CD pipelines for microservices
+I enjoy solving problems where scale, security, and reliability actually matter.
 
-☁ Automated ECS, Fargate, Lambda, ALB, VPC with Terraform
+⚙ What I work on
 
-🔐 Secured pipelines using STS AssumeRole
+Automating AWS infra using Terraform (ECS, Fargate, Lambda, ALB, VPC)
 
-💸 Reduced cloud costs up to 30–60%
+CI/CD with GitLab, CircleCI, GitHub Actions, CodePipeline
 
-🚀 Accelerated deployments by 40–70%
+Containerized deployments using Docker + ECS
 
-🏆 Certifications
-<p align="center"> <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f"> <img src="https://img.shields.io/badge/AWS%20SAA-Certified-orange?logo=amazonaws"> </a> <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4"> <img src="https://img.shields.io/badge/Terraform-Associate-purple?logo=terraform"> </a> </p>
-🛠 Tech Arsenal 
+Securing pipelines with STS assume-role
 
-Cloud & IaC
-AWS · Terraform · ECS · Fargate · Lambda · VPC · S3
+Cost and performance optimization
 
-CI/CD & Automation
-GitLab CI/CD · CircleCI · GitHub Actions · CodePipeline · Python · Bash
+🔥 Selected Work
+CAIS – Clinical AI Platform
 
-Containers & Platforms
-Docker · NGINX · Microservices · Serverless
+13 services across 4 environments
 
-Monitoring & Security
-CloudWatch · Prometheus · Grafana · SonarQube · IAM · STS
+ECS → Lambda migration for cost savings
 
-Databases
-MongoDB · MySQL · PostgreSQL · Redis · DynamoDB · DocumentDB
+Mono-repo GitLab CI/CD 
 
-🔥 Flagship Projects
-🧬 CAIS – Clinical AI Platform
+Autoflow – Chat Automation (InvoLead)
 
-8 microservices on ECS Fargate
+Multi-service CI/CD mono-repo
 
-Mono-repo GitLab CI/CD (70% build reduction)
+Terraform-based ECS + ALB infra
 
-ECS → Lambda migration for cost optimization
+Private NGINX reverse proxy
 
-🤖 Autoflow Chatbot (InvoLead)
-
-Folder-based CI/CD triggers
-
-Modular Terraform infra
-
-NGINX secure routing
-
-🛡 Serverless Antivirus Pipeline
+Serverless Antivirus Pipeline
 
 S3 → Lambda → ClamAV → Quarantine
 
 Terraform + CircleCI automation
 
-📊 CloudWatch Alarm Automation
+CloudWatch Alarm Automation
 
-200+ alarms via Terraform
+Terraform modules for 200+ alarms
 
-Auto-discovery for ECS services
+New ECS services auto-discovered
+
+🏆 Certifications
+
+AWS Solutions Architect – Associate
+
+HashiCorp Terraform Associate
+
+🛠 Tech I use
+
+AWS · Terraform · Docker · ECS · Lambda · GitLab CI/CD · CircleCI · GitHub Actions · Python · Bash · NGINX · MongoDB · MySQL · Redis · CloudWatch · Prometheus · Grafana 
 
 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NinadD26&theme=tokyonight&show_icons=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinadD26&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NinadD26&theme=tokyonight&show_icons=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinadD26&theme=tokyonight" /> </p>
+👀 Visitors
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=NinadD26&icon=5&color=12" /> </p>
+📬 Let’s connect
+
+LinkedIn → https://www.linkedin.com/in/ninad-divekar
