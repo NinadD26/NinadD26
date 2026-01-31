@@ -47,27 +47,104 @@
 
 ---
 
-## 🛠 Technical Stack
+## 🛠️ Technical Stack
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### **Cloud Platform**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
+</p>
+
+- **AWS Services:** EC2, S3, Lambda, API Gateway, CloudFront, Route 53, SNS, SQS
+- **Compute:** ECS Fargate, EKS, EC2 Auto Scaling, Lambda Functions
+- **Networking:** VPC, Subnets, Security Groups, NACLs, ALB/NLB, Transit Gateway
+- **Security:** IAM, Secrets Manager, KMS, WAF, Shield, Security Hub
+
+---
+
+### **Containerization & Orchestration**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+</p>
+
+- **Docker:** Containerization, Multi-stage builds, Docker Compose
+- **AWS ECS/Fargate:** Task Definitions, Service Discovery, Load Balancing
+- **AWS EKS:** Cluster Management, IRSA, PV/PVC, ConfigMaps, Secrets, Ingress Controllers
+- **Container Registry:** Amazon ECR, Docker Hub
+
+---
+
+### **Infrastructure as Code**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
+</p>
+
+- **Terraform:** Modular IaC (15+ reusable modules), State Management, Workspaces
+- **AWS CloudFormation:** Stack Management, Change Sets, Nested Stacks
+- **Terragrunt:** DRY configuration, Remote state management
+- **Version Control:** Git, GitHub, GitLab
+
+---
 
 ### **CI/CD & Automation**
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS CodePipeline"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="40" alt="CircleCI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+</p>
 
-### **Monitoring & Databases**
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+- **CI/CD Platforms:** GitHub Actions, GitLab CI/CD, AWS CodePipeline, CircleCI
+- **Pipeline Features:** Mono-repo support, Parallel jobs, Artifact management
+- **Automation:** Python scripting, Bash scripting, AWS SDK (Boto3)
+- **Build Tools:** Maven, Gradle, npm, pip
+
+---
+
+### **Monitoring, Security & Observability**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/>
+</p>
+
+- **Monitoring:** AWS CloudWatch (Custom Metrics, Alarms, Dashboards, Logs Insights)
+- **Alerting:** CloudWatch Alarms, SNS, PagerDuty integration
+- **Security:** IAM Policies, RBAC, IRSA, AWS WAF, Secrets Manager, KMS
+- **Observability:** VPC Flow Logs, SSL/TLS, X-Ray tracing
+- **Compliance:** AWS Config, GuardDuty, Security Hub
+
+---
+
+### **Databases**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+</p>
+
+- **Relational Databases:** RDS (MySQL, PostgreSQL, MariaDB), Aurora
+- **NoSQL Databases:** DynamoDB, DocumentDB, MongoDB
+- **In-memory Databases:** ElastiCache (Redis, Memcached)
+- **Vector Databases:** Qdrant (deployed on EKS)
+- **Database Tools:** AWS DMS, Schema Migrations, Backup Management
+
+---
+
+### **Programming & Scripting**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" alt="Go"/>
+</p>
+
+- **Python:** Scripting, Lambda functions, Boto3, Automation scripts
+- **Bash/Shell:** System administration, Automation, CI/CD scripting
+- **Go:** CLI tools, Microservices (learning)
+- **YAML/JSON:** Configuration files, CloudFormation, Kubernetes manifests
 
 ---
 
