@@ -56,14 +56,12 @@
 
 ## 🏆 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f">
-    <img src="https://github.com/NinadD26/NinadD26/assets/placeholder/aws-saa.png" width="120" alt="AWS SAA">
-  </a>
-  <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4">
-    <img src="https://github.com/NinadD26/NinadD26/assets/placeholder/terraform-associate.png" width="120" alt="Terraform Associate">
-  </a>
-</p>
+<div align="center">
+  
+[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f)
+[![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4)
+
+</div>
 
 ---
 
@@ -226,7 +224,7 @@
 
 
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -246,6 +244,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ninad-divekar)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/NinadD26)
 [![Credly](https://img.shields.io/badge/Credly-View%20Certifications-green?style=for-the-badge&logo=credly)](https://www.credly.com/users/ninad-divekar)
 
 </div>
