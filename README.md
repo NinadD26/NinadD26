@@ -4,15 +4,17 @@
 # Hello There 👋  
 I'm **Ninad Divekar **  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=2E9EF7&center=true&vCenter=true&width=600&duration=2000&lines=DevOps+Engineer;AWS+%7C+ECS+%7C+EKS+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+Cost+Optimization)](https://git.io/typing-svg)
+
+🚀 Senior DevOps Engineer with 5+ years IT experience and 3+ years in AWS DevOps Terraform Associate and AWS SAA Certified.
+I design scalable AWS platforms, build secure CI/CD pipelines,and automate everything using Terraform,Bash,Python, Docker, GitLab 
+
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+scalable+cloud+platforms;Automating+everything+with+Terraform;Cloud+Security+%26+Reliability" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ninad-divekar"><img src="https://img.shields.io/badge/LinkedIn-Ninad%20Divekar-blue?logo=linkedin"></a> <a href="https://www.credly.com/badges/1550ec8b-82d2-45a5-a05b-4b166967d33f"><img src="https://img.shields.io/badge/AWS-SAA-orange?logo=amazonaws"></a> <a href="https://www.credly.com/badges/78fd4d91-6019-4d2b-9eaa-651dd1b53ec4"><img src="https://img.shields.io/badge/Terraform-Associate-purple?logo=terraform"></a> </p>
 
 </div>
 
-🚀 Senior DevOps Engineer with 5+ years IT experience and 3+ years in AWS DevOps Terraform Associate and AWS SAA Certified.
-I design scalable AWS platforms, build secure CI/CD pipelines,
-and automate everything using Terraform,Bash,Python, Docker, GitLab 
 
 About Me
+
 ⚙ Built mono-repo CI/CD pipelines for microservices
 
 ☁ Automated ECS-Fargate Deployments with Terraform and Gitlab
