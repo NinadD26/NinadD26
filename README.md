@@ -150,7 +150,7 @@
 
 ## 🏗 Featured Projects
 
-### **🧬 Clinical AI Platform (CAIS)**
+### **🧬 CAIS — Clinical AI Platform (Healthcare)**
 *Healthcare • High Scale • Multi-environment*
 > **Tech:** AWS ECS Fargate • ALB • Lambda • DocumentDB • Terraform • GitLab CI/CD
 
@@ -159,7 +159,7 @@
 - Migrated compute-heavy services to Lambda → **Significant cost reduction**
 - Established secure inter-service communication via private NGINX routing
 
-### **🤖 Multi-Service Chat Automation Platform**
+### **🤖 Autoflow — Multi-Service Chat Automation (Fintech/SaaS)*
 *FinTech/SaaS • Secure Pipelines*
 > **Tech:** ECS Fargate • ALB • ECR • Terraform • GitLab CI/CD • STS AssumeRole
 
@@ -168,7 +168,7 @@
 - Optimized Docker builds → **40% faster pipeline execution**
 - Implemented zero long-lived credentials via STS AssumeRole
 
-### **🛡 Serverless Antivirus Scanning Platform**
+### **🛡 Clam AV- Serverless Antivirus Scanning Platform**
 *Security • Event-Driven Architecture*
 > **Tech:** S3 • Lambda (Container) • ClamAV • Terraform • CircleCI
 
@@ -184,7 +184,27 @@
 - Implemented dynamic ECS service discovery for monitoring
 - Reduced monitoring setup time from **50 minutes to 10 minutes per environment**
 
----
+### **🤖 RPA — Database Query Automation Platform**
+*DevOps Productivity • Secure Operations*
+> **Tech:** GitLab CI/CD • Docker • Custom Runners • AWS ECR • RDS Clients
+
+- Built custom Docker-based GitLab Runner images for secure execution
+- Automated RDS query execution through isolated container pipelines
+- Streamlined database workflows and maintenance tasks
+- Enhanced execution reliability and security with container isolation
+- Reduced manual database operations by **80% through automation**
+
+### **📱 Enterprise iOS Applications (ICICI, Axis Bank)**
+*Banking • Secure Mobile Applications*
+> **Tech:** Swift • Objective-C • REST APIs • Core Data • Keychain • SSL Pinning
+
+- Developed secure banking applications for major financial institutions
+- Implemented real-time API integrations with banking systems
+- Built offline storage capabilities using Core Data for uninterrupted service
+- Applied SSL pinning and encrypted Keychain storage for maximum security
+- Optimized app performance with GCD, intelligent caching, and async UI updates
+
+
 
 ## 📈 GitHub Analytics
 
