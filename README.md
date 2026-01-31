@@ -87,7 +87,7 @@
 
 - **Docker:** Containerization, Multi-stage builds, Docker Compose
 - **AWS ECS/Fargate:** Task Definitions, Service Discovery, Load Balancing
-- **AWS EKS:** Cluster Management, IRSA, PV/PVC, ConfigMaps, Secrets, Ingress Controllers
+- **AWS EKS:** Cluster Management, IRSA, PV/PVC, ConfigMaps, Secrets
 - **Container Registry:** Amazon ECR, Docker Hub
 
 ---
@@ -100,8 +100,7 @@
 
 - **Terraform:** Modular IaC (15+ reusable modules), State Management, Workspaces
 - **AWS CloudFormation:** Stack Management, Change Sets, Nested Stacks
-- **Terragrunt:** DRY configuration, Remote state management
-- **Version Control:** Git, GitHub, GitLab
+- **Version Control:** Git, GitHub, GitLab,BitBucket
 
 ---
 
@@ -115,10 +114,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
 </p>
 
-- **CI/CD Platforms:** GitHub Actions, GitLab CI/CD, AWS CodePipeline, CircleCI
+- **CI/CD Platforms:** GitHub Actions, GitLab CI/CD, AWS CodePipeline, CircleCI,BitBucket,Jenkins
 - **Pipeline Features:** Mono-repo support, Parallel jobs, Artifact management
 - **Automation:** Python scripting, Bash scripting, AWS SDK (Boto3)
-- **Build Tools:** Maven, Gradle, npm, pip
+- **Build Tools:** Ansible, pip
 
 ---
 
@@ -129,9 +128,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/>
 </p>
 
-- **Monitoring:** AWS CloudWatch (Custom Metrics, Alarms, Dashboards, Logs Insights)
-- **Alerting:** CloudWatch Alarms, SNS, PagerDuty integration
-- **Security:** IAM Policies, RBAC, IRSA, AWS WAF, Secrets Manager, KMS
+- **Monitoring:** AWS CloudWatch (Custom Metrics, Alarms, Dashboards, Logs Insights),Nagios,Filebeat,ELK
+- **Alerting:** CloudWatch Alarms, SNS,Redmine
+- **Security:** IAM Policies, RBAC, IRSA, AWS WAF, Secrets Manager, KMS,STS
 - **Observability:** VPC Flow Logs, SSL/TLS, X-Ray tracing
 - **Compliance:** AWS Config, GuardDuty, Security Hub
 
@@ -161,8 +160,7 @@
 
 - **Python:** Scripting, Lambda functions, Boto3, Automation scripts
 - **Bash/Shell:** System administration, Automation, CI/CD scripting
-- **Go:** CLI tools, Microservices (learning)
-- **YAML/JSON:** Configuration files, CloudFormation, Kubernetes manifests
+- **YAML/JSON:** Configuration files, CloudFormation, Kubernetes manifests,Ansible Playbooks
 
 ---
 
