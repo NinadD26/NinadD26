@@ -227,15 +227,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Ninad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinadD26&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinadD26&layout=compact&theme=radical&hide_border=true&langs_count=8)
+### Ninad's GitHub Stats
+![Ninad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinadD26&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NinadD26&theme=radical&hide_border=true)
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinadD26&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,NinadD26)
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=NinadD26&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
-
 ---
 
 ## 📫 Let's Connect
@@ -254,5 +256,9 @@
 <div align="center">
   
 *"Automating infrastructure to accelerate innovation and reduce operational overhead."*
+<div align="center">
 
+### 💡 *"Automating today, optimizing costs tomorrow."*
+
+</div>
 </div>
