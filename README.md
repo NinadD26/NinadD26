@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hello There 👋  
-I'm **Ninad Divekar **  
+I'm Ninad Divekar 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=2E9EF7&center=true&vCenter=true&width=600&duration=2000&lines=DevOps+Engineer;AWS+%7C+ECS+%7C+EKS+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+Cost+Optimization)](https://git.io/typing-svg)
 
 🚀 Senior DevOps Engineer with 5+ years IT experience and 3+ years in AWS DevOps Terraform Associate and AWS SAA Certified.
