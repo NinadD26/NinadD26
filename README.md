@@ -179,7 +179,7 @@
 - **Human-in-the-loop approval gate** — proposes fix, awaits confirmation, then remediates; fully auditable
 - **Temporal workflows** ensure every healing action is durable, retryable, and traceable end-to-end
 - Multi-provider LLM support (Anthropic Claude, Groq, OpenRouter) with hot-switchable config
-- Production-ready architecture: extensible toolset, structured for Lambda/ECS/EKS deployment
+- Production-ready architecture: extensible toolset, structured for EKS/K8s  deployment
 
 ---
 
