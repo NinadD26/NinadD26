@@ -233,6 +233,19 @@
 
 ---
 
+---
+
+### **📊 CloudWatch Monitoring Automation**
+*Reliability • Zero-Touch Monitoring*
+> **Tech:** Terraform • CloudWatch • ECS • DynamoDB • GitLab CI/CD
+- Automated provisioning of 200+ CloudWatch alarms using reusable Terraform modules.
+- Automated **200+ CloudWatch alarms** across environments via Terraform — covering ALB/TG (4xx errors, 5xx errors, unhealthy target count), DocumentDB (CPU utilization, DB connections, freeable memory), ECS (running task count, CPU & memory utilization), and Lambda (errors, throttles)
+- Dynamic ECS service discovery — alarms auto-created for new services without manual intervention
+- Reduced monitoring setup time: **40 minutes → 15 minutes per environment**
+
+---
+---
+
 ### **🛡️ ClamAV — Serverless Antivirus Scanning**
 *Security • Event-Driven Architecture*
 > **Tech:** S3 • Lambda (Container) • ClamAV • Terraform • CircleCI
@@ -240,33 +253,29 @@
 - Event-driven file scanning: S3 → Lambda → Scan → Quarantine
 - **100% file scanning coverage** with automated quarantine
 - Fully automated infra provisioning and deployment
-
----
-
-### **📊 CloudWatch Monitoring Automation**
-*Reliability • Zero-Touch Monitoring*
-> **Tech:** Terraform • CloudWatch • ECS • DynamoDB • GitLab CI/CD
-
-- Automated **200+ CloudWatch alarms** across environments via Terraform — covering ALB/TG (4xx errors, 5xx errors, unhealthy target count), DocumentDB (CPU utilization, DB connections, freeable memory), ECS (running task count, CPU & memory utilization), and Lambda (errors, throttles)
-- Dynamic ECS service discovery — alarms auto-created for new services without manual intervention
-- Reduced monitoring setup time: **50 minutes → 10 minutes per environment**
-
 ---
 
 ### **🗄️ RPA — Database Query Automation**
 *DevOps Productivity • Secure Operations*
 > **Tech:** GitLab CI/CD • Docker • Custom Runners • ECR • RDS
-
+- Built custom Docker-based GitLab Runner images for secure execution
+- Automated RDS query execution through isolated container pipelines
+- Streamlined database workflows and maintenance tasks
+- Enhanced execution reliability and security with container isolation
+- Reduced manual database operations by **80% through automation**
 - Custom Docker-based GitLab Runner for isolated, secure RDS query execution
-- Reduced manual database operations by **80%**
 
 ---
 
 ### **📱 Enterprise iOS Applications (ICICI, Axis Bank)**
 *Banking • Secure Mobile*
-> **Tech:** Swift • Objective-C • REST APIs • Core Data • Keychain • SSL Pinning
+> **Tech:** Swift3 • Objective-C • REST APIs • Core Data • Keychain • SSL Pinning
 
-- Secure banking apps with real-time API integration, offline Core Data storage, SSL pinning, and encrypted Keychain
+- Developed secure banking applications for major financial institutions
+- Implemented real-time API integrations with banking systems
+- Built offline storage capabilities using Core Data for uninterrupted service
+- Applied SSL pinning and encrypted Keychain storage for maximum security
+- Optimized app performance with GCD, intelligent caching, and async UI updates
 
 ---
 
