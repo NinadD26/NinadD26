@@ -225,7 +225,7 @@
 *Healthcare • RAG • Secure AI Pipeline*
 > **Tech:** ECS Fargate • ALB • ECR • Claude Sonnet 4 (Bedrock) • Qdrant • Ollama • NeMo Guardrails • MongoDB • GitLab CI/CD • STS AssumeRole • Terraform
 
-- Delivered infra for a **medical Q&A platform for Roche clinicians** — 3-microservice system (chat backend, data ingestion, Next.js frontend) deployed on ECS Fargate
+- Delivered infra for a **medical Q&A platform for Roche clinicians** — 4-microservice system (chat backend,frontend, data ingestion, Next.js frontend) deployed on ECS Fargate
 - **RAG pipeline:** user queries vectorized via Ollama (nomic-embed-text, 768-dim) → Qdrant hybrid search (semantic top-45 + keyword top-5) → context injected into Claude Sonnet 4 (Bedrock, temp=0.0 for deterministic medical accuracy)
 - **NeMo Guardrails layer** (Llama 3.1 8B/70B): validates both input (PII, prompt injection) and output (hallucination detection) before response is shown
 - Engineered mono-repo GitLab CI/CD with folder-level change detection → **40% faster pipeline execution**; zero long-lived credentials via STS AssumeRole
