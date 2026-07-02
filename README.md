@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-**Results-driven Senior DevOps Engineer** with 5+ years of IT experience and 3+ years specializing in **AWS Cloud Architecture & Infrastructure Automation**. I build **secure, scalable, and cost-optimized** cloud platforms — and increasingly bring **AI/LLM capabilities** into infrastructure tooling.
+**Results-driven Senior DevOps Engineer** with with 6+ years in IT including hands-on specializing in **AWS Cloud Architecture & Infrastructure Automation**. I build **secure, scalable, and cost-optimized** cloud platforms — and increasingly bring **AI/LLM capabilities** into infrastructure tooling.
 
 ### **Proven Impact:**
 
