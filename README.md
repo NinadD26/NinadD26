@@ -43,7 +43,7 @@
 > Built production-ready AI tooling: LLM-powered Kubernetes self-healing (KubeHealer) and intelligent CloudWatch alarm triage (NovaSense) — reducing ops toil and accelerating incident response.
 
 👨‍🏫 **Leadership**
-> Mentored **3+ engineering teams** and **5+ interns** — achieved **50% faster onboarding** through standardized DevOps workflows.
+> Mentored **engineering teams** and **5+ interns** — achieved **50% faster onboarding** through standardized DevOps workflows and **85%project completion** .
 
 ### **Engineering Philosophy:**
 > *"Automation isn't about replacing people — it's about empowering teams to focus on innovation. Every line of infrastructure code should make the system more reliable, more secure, and more cost-effective."*
